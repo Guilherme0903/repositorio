@@ -2,7 +2,7 @@
 
 ```git config --global user.name "seu nome"```
 
-```git clone *link do repositorio*```                                           *clona o repositório online para local*
+```git clone *link do repositorio*```                                           *clona o repositorio online para local*
 
 ```cd git_na_pratica``` 		                                                    *entra na pasta do repositório*
 
